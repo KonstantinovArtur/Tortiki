@@ -1,0 +1,14 @@
+C:\Users\akons\source\repos\dsgs\dsgs\bin\Debug\net6.0\dsgs.exe
+C:\Users\akons\source\repos\dsgs\dsgs\bin\Debug\net6.0\dsgs.deps.json
+C:\Users\akons\source\repos\dsgs\dsgs\bin\Debug\net6.0\dsgs.runtimeconfig.json
+C:\Users\akons\source\repos\dsgs\dsgs\bin\Debug\net6.0\dsgs.dll
+C:\Users\akons\source\repos\dsgs\dsgs\bin\Debug\net6.0\dsgs.pdb
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\dsgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\dsgs.AssemblyInfoInputs.cache
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\dsgs.AssemblyInfo.cs
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\dsgs.csproj.CoreCompileInputs.cache
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\dsgs.dll
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\refint\dsgs.dll
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\dsgs.pdb
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\dsgs.genruntimeconfig.cache
+C:\Users\akons\source\repos\dsgs\dsgs\obj\Debug\net6.0\ref\dsgs.dll
